@@ -1,4 +1,5 @@
-![BG](https://github.com/developer-vitoria-luiza/hello-world/assets/165946610/b76d9c97-2872-43fd-826f-066edc1476e3)
+![BG](https://github.com/developer-vitoria-luiza/developer-vitoria-luiza/assets/165946610/ee7df8c5-397f-4bb3-9139-525dc8ce877a)
+
 ## Sobre mim
 ✨ Iniciei minha carreira aos 19 anos, programando e implementando sistemas web. Sou apaixonadoa por desafios e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
 

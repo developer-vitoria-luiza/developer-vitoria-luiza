@@ -1,4 +1,4 @@
-![BG](https://github.com/developer-vitoria-luiza/developer-vitoria-luiza/assets/165946610/ee7df8c5-397f-4bb3-9139-525dc8ce877a)
+![BG](https://github.com/developer-vitoria-luiza/developer-vitoria-luiza/assets/165946610/e4a1094e-2e75-4c89-8da7-d5e40011b85f)
 
 ## Sobre mim
 ✨ Iniciei minha carreira aos 19 anos, programando e implementando sistemas web. Sou apaixonadoa por desafios e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨

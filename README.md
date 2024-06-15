@@ -1,7 +1,9 @@
 ![BG](https://github.com/developer-vitoria-luiza/developer-vitoria-luiza/assets/165946610/e4a1094e-2e75-4c89-8da7-d5e40011b85f)
 
 :computer: | Software Engineer
+<br/>
 :mortar_board: | Bacharel em Sistemas de informação
+<br/>
 :gemini: | 24 anos
 
 <div align="center">

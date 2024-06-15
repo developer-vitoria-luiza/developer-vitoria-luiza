@@ -1,7 +1,8 @@
 ![BG](https://github.com/developer-vitoria-luiza/developer-vitoria-luiza/assets/165946610/e4a1094e-2e75-4c89-8da7-d5e40011b85f)
 
-## Sobre mim
-✨ Iniciei minha carreira aos 19 anos, programando e implementando sistemas web. Sou apaixonadoa por desafios e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+:computer: | Software Engineer
+:mortar_board: | Bacharel em Sistemas de informação
+:gemini: | 24 anos
 
 <div align="center">
   <img width="100%" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"

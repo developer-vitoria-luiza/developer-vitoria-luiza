@@ -15,7 +15,7 @@
        alt="snake" /></a>
 </div>
 
-## 🚀 Habilidades Técnicas
+## 🚀 Habilidades Técnicas:
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,php,wordpress,nodejs,nestjs,react,next,vite,tailwind,mysql,cypress,vitest)](https://skillicons.dev)
 
 ## ⚙️ Ferramentas:

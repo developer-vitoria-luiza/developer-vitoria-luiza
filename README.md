@@ -1,8 +1,8 @@
-![BG](https://github.com/developer-vitoria-luiza/developer-vitoria-luiza/assets/165946610/e4a1094e-2e75-4c89-8da7-d5e40011b85f)
+![BG](https://github.com/developer-vitoria-luiza/developer-vitoria-luiza/assets/165946610/89d98f58-c370-4ba5-829b-25807506044b)
 
 :wave: | Hello World
 <br/>
-:computer: | Software Engineer
+:computer: | Front-end Engineer | Full Stack Developer
 <br/>
 :mortar_board: | Bacharel em Sistemas de informação
 <br/>

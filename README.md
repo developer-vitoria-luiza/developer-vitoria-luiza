@@ -10,11 +10,6 @@
 <br/>
 :heart_eyes: | Apaixonada por tecnologia
 
-<div align="center">
-  <img width="100%" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 ## 🚀 Habilidades Técnicas:
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,php,wordpress,nodejs,nestjs,react,next,vite,tailwind,mysql,cypress,vitest)](https://skillicons.dev)
 
